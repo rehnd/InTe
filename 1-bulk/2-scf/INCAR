@@ -1,0 +1,23 @@
+SYSTEM = InTe wire
+NCORE = 8
+
+ALGO = Fast
+PREC = Accurate
+
+ENCUT = 520
+EDIFF = 1e-5
+
+IBRION = -1
+
+ISPIN = 2
+LORBIT = 11
+
+ISMEAR = 0
+SIGMA = 0.05
+
+LREAL = False
+ADDGRID = True
+
+LWAVE  = False
+LCHARG = True
+NWRITE = 1
